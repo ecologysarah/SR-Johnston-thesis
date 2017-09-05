@@ -1,5 +1,5 @@
 # SR-Johnston-thesis
-Supplementary files for PhD thesis by SR Johnston
+Supplementary files for PhD thesis 'Fungus-bacteria interactions in decomposing wood: unravelling community effects' by SR Johnston
 
 Protocol S4.1. R markdown of the code used to produce the analysis in Chapter 4
 - multisite_bact_markdown_thesis.html
